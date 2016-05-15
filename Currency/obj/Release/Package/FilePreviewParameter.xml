@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="YourCurrencyWeb" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\souri\\Desktop\\My\ SDPM\ Project\\CurrencyProject-SDPM-Azure\\Currency\\Currency\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\souri\\Desktop\\My\ SDPM\ Project\\CurrencyProject-SDPM-Azure\\Currency\\Currency\\obj\\Release\\Package\\PackageTmp$" />
+  <parameter name="IIS Web Application Name" description="" value="YourCurrency" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\souri\\Documents\\GitHub\\YourCurrency\\Currency\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\souri\\Documents\\GitHub\\YourCurrency\\Currency\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
 </parameters>

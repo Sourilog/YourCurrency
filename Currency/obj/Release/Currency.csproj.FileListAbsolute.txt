@@ -54,3 +54,31 @@ C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\Currency\Curre
 C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\Currency\Currency\obj\Release\Currency.csprojResolveAssemblyReference.cache
 C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\Currency\Currency\obj\Release\Currency.dll
 C:\Users\souri\Desktop\My SDPM Project\CurrencyProject-SDPM-Azure\Currency\Currency\obj\Release\Currency.pdb
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Currency.dll.config
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Currency.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Currency.pdb
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Newtonsoft.Json.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Swashbuckle.Core.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Net.Http.Formatting.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Web.Http.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Web.Http.WebHost.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\WebActivatorEx.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Data.Services.Client.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Data.OData.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Data.Edm.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Spatial.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Newtonsoft.Json.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Net.Http.Formatting.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Web.Http.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Web.Http.WebHost.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Data.Services.Client.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Data.OData.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\Microsoft.Data.Edm.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\bin\System.Spatial.xml
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\obj\Release\Currency.csprojResolveAssemblyReference.cache
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\obj\Release\Currency.dll
+C:\Users\souri\Documents\GitHub\YourCurrency\Currency\obj\Release\Currency.pdb

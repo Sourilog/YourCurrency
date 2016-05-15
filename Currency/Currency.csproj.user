@@ -6,7 +6,7 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
-    <NameOfLastUsedPublishProfile>YourCurrencyWeb - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>YourCurrency - Web Deploy %282%29</NameOfLastUsedPublishProfile>
     <UseIISExpress>true</UseIISExpress>
   </PropertyGroup>
   <ProjectExtensions>
