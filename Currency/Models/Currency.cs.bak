@@ -1,0 +1,54 @@
+﻿using System;
+using Microsoft.WindowsAzure.Storage.Table;
+
+namespace Currency.Models
+{
+    // weather info i.e. city, current temperature, current windspeed, current weather conditions, and whether a weather warning is in place
+    public class CurrencyInformation: TableEntity
+    {
+
+        public CurrencyInformation()
+        {
+            RowKey = Guid.NewGuid().ToString();
+        }
+
+        public String Currencyname
+        {
+            get
+            {
+                return PartitionKey;
+            }
+            set
+            {
+                PartitionKey = value;
+            }
+        }
+
+        // current temperature in Celsius
+        public String CurrencyID
+        {
+            get
+            {
+                return RowKey;
+            }
+            set
+            {
+                RowKey = value;
+            }
+        }
+        public double CurrencyRate
+        {
+            get;
+            set;
+        }
+
+        public DateTime RateDate
+        {
+            get;
+            set;
+        }
+
+   
+        public bool CurrencyWarning { get; set; }
+    }
+}
