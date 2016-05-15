@@ -60,13 +60,13 @@ namespace Currency.Controllers
                 CloudTable table = tableClient.GetTableReference(tableName);
                 table.CreateIfNotExists();
 			// first-time table creation
-           /*
+         
                foreach (CurrencyInformation c in currency)
                 {
               TableOperation insertOperation = TableOperation.Insert(c);
                 table.Execute(insertOperation);
                 }
-          */    
+           
 
 				//query written for the table that return currency information (CurrencyInformation)
                 TableQuery<CurrencyInformation> query;
